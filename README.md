@@ -1,2 +1,2 @@
 # MLB-Starting-Pitcher-Factor-Analysis
-A forecast model with principal drivers that predicts MLB free-agent starting pitcher’s upcoming year WAR 
+This is a data science project where I created a multiple linear regression prediction model using LASSO and factor analysis methods, forecasting the MLB Free-Agent Starting Pitcher's upcoing year WAR and identifying the principal drivers of such WAR.
